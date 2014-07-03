@@ -1,4 +1,6 @@
 delacruzjames.github.io
 =======================
 
-james martin dela cruz
+MIT license
+
+created by: James Dela Cruz
